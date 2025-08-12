@@ -1,7 +1,6 @@
-# ulisp-riscv
-A version of the Lisp programming language for the Sipeed MAiX RISC-V boards.
+# ulisp-riscv-longan-nano
+A version of the Lisp programming language for the Sipeed Longan Nano RISC-V boards.
 
-The "-comments" version is identical but includes comprehensive comments.
+For more information see:(WIP)
+Needs https://github.com/scpcom/Longduino installed
 
-For more information see:
-http://www.ulisp.com/show?30X8
